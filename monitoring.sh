@@ -13,6 +13,9 @@
 #   - Track security metrics (sudo commands, active connections)
 #   - Display system configuration (architecture, LVM status)
 #
+# Run:
+#   sudo ./home/dnovikov/monitoring.sh
+#
 # Installation:
 #   1. Copy script to system directory:
 #      sudo cp monitoring.sh /usr/local/bin/
